@@ -1,0 +1,14 @@
+F:\proyectos\MidiShortcuts\obj\Release\net8.0-windows\MidiShortcuts.GeneratedMSBuildEditorConfig.editorconfig
+F:\proyectos\MidiShortcuts\obj\Release\net8.0-windows\MidiShortcuts.AssemblyInfoInputs.cache
+F:\proyectos\MidiShortcuts\obj\Release\net8.0-windows\MidiShortcuts.AssemblyInfo.cs
+F:\proyectos\MidiShortcuts\obj\Release\net8.0-windows\MidiShortcuts.csproj.CoreCompileInputs.cache
+F:\proyectos\MidiShortcuts\bin\Release\net8.0-windows\MidiShortcuts.exe
+F:\proyectos\MidiShortcuts\bin\Release\net8.0-windows\MidiShortcuts.deps.json
+F:\proyectos\MidiShortcuts\bin\Release\net8.0-windows\MidiShortcuts.runtimeconfig.json
+F:\proyectos\MidiShortcuts\bin\Release\net8.0-windows\MidiShortcuts.dll
+F:\proyectos\MidiShortcuts\bin\Release\net8.0-windows\MidiShortcuts.pdb
+F:\proyectos\MidiShortcuts\obj\Release\net8.0-windows\MidiShortcuts.dll
+F:\proyectos\MidiShortcuts\obj\Release\net8.0-windows\refint\MidiShortcuts.dll
+F:\proyectos\MidiShortcuts\obj\Release\net8.0-windows\MidiShortcuts.pdb
+F:\proyectos\MidiShortcuts\obj\Release\net8.0-windows\MidiShortcuts.genruntimeconfig.cache
+F:\proyectos\MidiShortcuts\obj\Release\net8.0-windows\ref\MidiShortcuts.dll
